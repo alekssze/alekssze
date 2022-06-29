@@ -9,7 +9,7 @@
 
 
 
-Got an access to amazing tool called DALL·E and it is such an amazing experience when it is possible to to create image only from text input. 
+Got an Access to amazing tool called DALL·E, it is such an Amazing experience when it is possible to to Create Image only from Text input. 
 
 
 ![](https://media0.giphy.com/media/oJx848nWCDYJn87xku/giphy.gif)
