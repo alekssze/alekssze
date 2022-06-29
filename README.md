@@ -2,4 +2,6 @@
 
 
 Got an access to amazing tool called DALL·E and it is such an amazing experience when it is possible to to create image only from text input. 
+
+
 ![](https://media0.giphy.com/media/oJx848nWCDYJn87xku/giphy.gif)
