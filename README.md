@@ -9,7 +9,7 @@
 
 
 
-Got an Access to DALL·E, it is such an Amazing experience when it is possible to to Create Image only from Text input 
+DALL·E, it is some experience when it is possible to to Create Image only from Text input 
 
 
 ![](https://media0.giphy.com/media/oJx848nWCDYJn87xku/giphy.gif)
