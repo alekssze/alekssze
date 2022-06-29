@@ -1,3 +1,6 @@
+<a href="https://www.linkedin.com/in/sskela-z-123322210/"><img height="20" src="./icons/linkedin.svg" alt=""/></a>
+<a href="https://twitter.com/sskelaz"><img height="20" src="./icons/twitter.png" alt=""/></a>
+
 ![](https://media3.giphy.com/media/XIDD9ivcLLzIoLFxCC/giphy.gif?cid=ecf05e47e3mach670hkgnn512847sivju9tq8npgafomvtra&rid=giphy.gif&ct=g)
 
 
