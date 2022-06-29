@@ -2,7 +2,7 @@
 <p>
 <a href="https://www.linkedin.com/in/sskela-z-123322210/"><img height="20" src="./Icons/linkedin.svg" alt=""/></a>
 <a href="https://twitter.com/sskelaz"><img height="20" src="./Icons/twitter.png" alt=""/></a>
-<a href="[https://twitter.com/sskelaz](https://www.youtube.com/channel/UC0AHWT1_oRXxfgglrVvr5qw)"><img height="20" src="./Icons/youtube.png" alt=""/></a>
+<a href="https://www.youtube.com/channel/UC0AHWT1_oRXxfgglrVvr5qw"><img height="20" src="./Icons/youtube.png" alt=""/></a>
 </p>
 
 
