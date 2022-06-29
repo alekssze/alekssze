@@ -1,9 +1,9 @@
+![eating](https://user-images.githubusercontent.com/65283311/176474763-e8401ddf-7a73-45a1-bbb3-9da58154b7fa.gif)
 
 
 
 <p>
 <a> <b> Hello Friend 👋 </b> </a>
-![eating](https://user-images.githubusercontent.com/65283311/176474338-f460e6c5-8338-473a-8b9a-22f622a522fb.gif)
 <a href="https://www.linkedin.com/in/sskela-z-123322210/"><img height="20" align="right" src="./Icons/linkedin.svg" alt=""/></a>
 <a href="https://twitter.com/sskelaz"><img height="20" align="right" src="./Icons/twitter.png" alt=""/></a>
 <a href="https://www.youtube.com/channel/UC0AHWT1_oRXxfgglrVvr5qw/videos"><img height="20" align="right" src="./Icons/youtube.svg.png" alt=""/></a>
