@@ -3,6 +3,7 @@
 
 <p>
 <a> <b> Hello Friend 👋 </b> </a>
+<a> ![](https://media3.giphy.com/media/XIDD9ivcLLzIoLFxCC/giphy.gif?cid=ecf05e47e3mach670hkgnn512847sivju9tq8npgafomvtra&rid=giphy.gif&ct=g) </a>
 <a href="https://www.linkedin.com/in/sskela-z-123322210/"><img height="20" align="right" src="./Icons/linkedin.svg" alt=""/></a>
 <a href="https://twitter.com/sskelaz"><img height="20" align="right" src="./Icons/twitter.png" alt=""/></a>
 <a href="https://www.youtube.com/channel/UC0AHWT1_oRXxfgglrVvr5qw/videos"><img height="20" align="right" src="./Icons/youtube.svg.png" alt=""/></a>
