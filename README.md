@@ -1,3 +1,5 @@
+👋
+
 
 <p>
 <a href="https://www.linkedin.com/in/sskela-z-123322210/"><img height="20" src="./Icons/linkedin.svg" alt=""/></a>
