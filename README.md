@@ -18,6 +18,6 @@
 
 
 <p> 
-  <a> align="right" DALL·E it is some experience when it is possible to Create Image only from Text input </a>
+  <a> DALL·E it is some experience when it is possible to Create Image only from Text input </a>
   <a> <img height="250" align="left" src="https://user-images.githubusercontent.com/65283311/176610614-7538bb00-bde4-4b73-91de-d16b2bdc30fe.gif"</a>
 </p>
