@@ -14,25 +14,26 @@
 <br />
 
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  border-radius: 10%;
+}
+</style>
+</head>
 <body>
-  <p>
-    <img height="220" align="left" src="https://user-images.githubusercontent.com/65283311/176610614-7538bb00-bde4-4b73-91de-d16b2bdc30fe.gif" 
-    <p style="text-align:right"> Got an access to DALL·E and  it is some cool experience when it is possible to Create Image only from Text input. 
-  </p>
+
+<h2>Dallee</h2>
+
+<img src="https://user-images.githubusercontent.com/65283311/176610614-7538bb00-bde4-4b73-91de-d16b2bdc30fe.gif" alt="Avatar" style="width:220px">
+
 </body>
 
 
-<br />
-<br />
-<br />
 
 
-<body>
-  <p>
-    <img height="220" align="left" src="https://user-images.githubusercontent.com/65283311/176610614-7538bb00-bde4-4b73-91de-d16b2bdc30fe.gif" 
-    <p style="text-align:right"> Got an access to DALL·E and  it is some cool experience when it is possible to Create Image only from Text input. 
-  </p>
-</body>
+
 
 
 
