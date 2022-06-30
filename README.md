@@ -29,13 +29,14 @@
 <br />
 <br />
 <br />
+
 <br />
 <br />
 
 
 <body>
   <p>
-    <img height="220" align="left" src="https://user-images.githubusercontent.com/65283311/176705096-0a35ab30-b0b3-4390-a8be-ecc9be0048c6.gif" 
+    <img height="220" align="left" src="https://user-images.githubusercontent.com/65283311/176707646-13a0fc85-f4a1-4e7b-be3c-352410a6afbd.gif" 
     <p style="text-align:right"> MIDJOURNEY <br> Had some fun with Text to image art generator on Discord called - MIDJOURNEY 
   </p>
 </body>
