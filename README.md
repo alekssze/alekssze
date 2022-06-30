@@ -9,7 +9,6 @@
     <a href="https://www.youtube.com/channel/UC0AHWT1_oRXxfgglrVvr5qw/videos"><img height="20" align="right" src="./Icons/youtube.svg.png" alt=""/></a>
     <a> <img height="20" align="right" src="https://user-images.githubusercontent.com/65283311/176474763-e8401ddf-7a73-45a1-bbb3-9da58154b7fa.gif"</a>
   </p>
-    <hr>
 </body>
 
 
