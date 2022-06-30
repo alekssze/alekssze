@@ -13,7 +13,6 @@
 <br />
 <br />
 
-
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -24,11 +23,8 @@ img {
 </head>
 <body>
 
-<h2>Got an access to DALL·E and  it is some cool experience when it is possible to Create Image only from Text input. </h2>
+<img src="https://user-images.githubusercontent.com/65283311/176474763-e8401ddf-7a73-45a1-bbb3-9da58154b7fa.gif"
 
-<img src="https://user-images.githubusercontent.com/65283311/176610614-7538bb00-bde4-4b73-91de-d16b2bdc30fe.gif" alt="Avatar" style="width:200px">
-
-</body>
 
 
 
