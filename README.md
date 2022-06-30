@@ -13,17 +13,6 @@
 <br />
 <br />
 
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  border-radius: 10%;
-}
-</style>
-</head>
-<body>
-
-<img src="https://user-images.githubusercontent.com/65283311/176474763-e8401ddf-7a73-45a1-bbb3-9da58154b7fa.gif"
 
 
 
