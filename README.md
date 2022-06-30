@@ -30,7 +30,7 @@
 <br />
 
 
-
+<p>
 <style>
 img {
   border-radius: 7%;
@@ -42,7 +42,7 @@ img {
 <img src="https://user-images.githubusercontent.com/65283311/176610614-7538bb00-bde4-4b73-91de-d16b2bdc30fe.gif" style="width:300px">
 
 </body>
-
+</p>
 </html>
 
 
