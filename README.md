@@ -36,7 +36,7 @@
 <body>
   <p>
     <img height="220" align="left" src="https://user-images.githubusercontent.com/65283311/176705096-0a35ab30-b0b3-4390-a8be-ecc9be0048c6.gif" 
-    <p style="text-align:right"> Had some fun with Text to image art generator on Discord called - MIDJOURNEY 
+    <p style="text-align:right"> MIDJOURNEY <br> Had some fun with Text to image art generator on Discord called - MIDJOURNEY 
   </p>
 </body>
 
