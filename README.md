@@ -19,7 +19,7 @@
 
 <body>
   <p> <img src="https://user-images.githubusercontent.com/65283311/176610614-7538bb00-bde4-4b73-91de-d16b2bdc30fe.gif" style="width:300px"> </p>
-  <p> style="text-align:right"> Got an access to DALL·E and  it is some cool experience when it is possible to Create Image only from Text input. </p>
+  <p style="text-align:right"> Got an access to DALL·E and  it is some cool experience when it is possible to Create Image only from Text input. </p>
 </body>
 
 
