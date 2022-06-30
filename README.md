@@ -19,5 +19,5 @@
 
 <p> 
   <a> DALL·E it is some experience when it is possible to Create Image only from Text input </a>
-  <a> <img height="40"src="![](https://media0.giphy.com/media/oJx848nWCDYJn87xku/giphy.gif)"</a>
+  <a> <img height="20" align="right" src="https://user-images.githubusercontent.com/65283311/176474763-e8401ddf-7a73-45a1-bbb3-9da58154b7fa.gif"</a>
 </p>
